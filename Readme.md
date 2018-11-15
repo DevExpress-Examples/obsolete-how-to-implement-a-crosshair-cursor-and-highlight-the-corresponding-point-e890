@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [frmMain.cs](./CS/frmMain.cs) (VB: [frmMain.vb](./VB/frmMain.vb))
+<!-- default file list end -->
 # OBSOLETE - How to implement a crosshair cursor and highlight the corresponding point
 
 
